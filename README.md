@@ -1,5 +1,5 @@
 # React + Vite
-## visit at here: https://latihan-react-component.vercel.app/
+## visit at here: https://contactsapp-react-component.vercel.app/
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
